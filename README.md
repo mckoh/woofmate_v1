@@ -28,3 +28,4 @@ pip install -r requirements.txt
 * [Einsteiger-Tutorial in Python Django](https://www.w3schools.com/django/)
 * [Einsteiger-Tutorial in SQLite](https://www.guru99.com/de/sqlite-tutorial.html)
 * [Maps in Django mit Python Folium](https://medium.com/@FatemeFouladkar/how-i-integrated-folium-with-django-d04dc5b25048)
+* [Map Icons in Font Awesome](https://fontawesome.com/icons?d=gallery)
